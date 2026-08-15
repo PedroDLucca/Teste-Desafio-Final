@@ -1,4 +1,6 @@
 .env
 .context7-key
 .scratch/
-**/node_modules
+
+**/dist/
+**/node_modules/
